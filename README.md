@@ -2,6 +2,9 @@
 
 This is a simple FastAPI app that takes a string as input and returns a sentiment score from 1 (negative) to 10 (positive) using TextBlob for sentiment analysis.
 
+https://youtu.be/HtIdxjZFSGU?t=16 
+
+
 ## Installation
 
 Make sure you have Python 3.7 or higher installed.
