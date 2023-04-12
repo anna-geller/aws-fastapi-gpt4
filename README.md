@@ -4,6 +4,8 @@ This is a simple FastAPI app that takes a string as input and returns a sentimen
 
 [VIDEO: How to use AWS AppRunner to deploy ChatGPT Python FastAPI Microservice](https://youtu.be/HtIdxjZFSGU?t=16)
 
+[Blog post](https://annageller.com/blog/how-to-build-and-deploy-a-chatgpt-powered-sentiment-analysis-fastapi-microservice-to-aws)
+
 ## Installation
 
 Make sure you have Python 3.7 or higher installed.
